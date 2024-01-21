@@ -1,0 +1,7 @@
+model type: Regression
+model name: Linear_regression
+Accuracy: 91
+F1: 0.87
+test_time: 30
+Date: 2019-12-01
+model_ID: test123
